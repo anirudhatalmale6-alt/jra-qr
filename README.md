@@ -12,6 +12,7 @@ owns the domain.
 | File | Use it for |
 |---|---|
 | `JRA-flyer-scannable-QR.jpg` | The flyer, with the working QR in place of the old one |
+| `JRA-business-card-scannable-QR.jpg` | The business card, same repair — its QR did not scan either |
 | `JRA-QR-print-2400px.png` | Anything printed or on screen — business cards, banners, signs |
 | `JRA-QR.svg` | Give this to a printer or designer — vector, scales to any size |
 | `JRA-QR-plain-2400px.png` | No logo in the middle — most reliable for very small placements |
